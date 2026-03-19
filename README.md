@@ -62,7 +62,13 @@ Pain Points:
 
 ## 💰 Weekly Premium Model
 
-The platform adopts a **weekly pricing strategy** aligned with gig workers’ earning patterns.
+Premium = 1% of Weekly Income
+
+| Weekly Income | Premium | Coverage |
+| ------------- | ------- | -------- |
+| ₹5000         | ₹50     | ₹1000    |
+| ₹7000         | ₹70     | ₹1400    |
+| ₹10000        | ₹100    | ₹2000    |
 
 ### Key Factors:
 
