@@ -163,7 +163,7 @@ A **web-based platform** is chosen for Phase 1 to enable rapid development, ease
 
 ## 🔗 Repository
 
-(https://github.com/IragalaSaiNavya/ai-insurance-platform.git)
+https://github.com/IragalaSaiNavya/ai-insurance-platform.git
 
 ---
 
