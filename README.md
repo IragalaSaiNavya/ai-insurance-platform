@@ -6,17 +6,12 @@ AI-powered insurance for gig workers
 
 This project proposes a scalable, AI-driven parametric insurance platform designed to protect gig economy workers—particularly delivery partners—from income loss caused by external disruptions. The platform leverages real-time data, predictive analytics, and automated workflows to ensure rapid, transparent, and reliable compensation.
 
-Unlike traditional insurance models, this solution eliminates manual claim processing by using predefined event-based triggers, enabling **instant payouts and improved user trust**.
 
 ---
 
 ## 🎯 Problem Statement
 
-Gig workers operate in highly volatile environments where their income is directly impacted by uncontrollable external factors such as:
-
-* Extreme weather conditions (rainfall, heatwaves, floods)
-* Environmental hazards (pollution spikes)
-* Social disruptions (curfews, strikes, zone closures)
+Gig workers operate in highly volatile environments where their income is directly impacted by uncontrollable external factors 
 
 Currently, there is **no efficient, scalable insurance solution** that addresses real-time income loss for this segment, resulting in financial instability and lack of safety nets.
 
@@ -40,6 +35,17 @@ This approach ensures **low operational overhead, faster settlements, and enhanc
 ### Target User:
 
 * Delivery Partner (e.g., Swiggy, Zomato, Amazon)
+* Persona Example:
+
+Name: Ravi
+City: Hyderabad
+Weekly Income: ₹7000–₹9000
+Work Type: Outdoor delivery
+Pain Points:
+
+Income drops during heavy rain / extreme heat
+Cannot work during curfews or floods
+No financial safety net
 
 ### Workflow:
 
