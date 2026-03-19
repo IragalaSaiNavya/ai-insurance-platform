@@ -1,5 +1,5 @@
 # ai-insurance-platform
-AI-powered insurance for gig workers
+
 # 🚀 AI-Powered Parametric Insurance Platform for Gig Economy Workers
 
 ## 📌 Executive Summary
@@ -35,15 +35,14 @@ This approach ensures **low operational overhead, faster settlements, and enhanc
 ### Target User:
 
 * Delivery Partner (e.g., Swiggy, Zomato, Amazon)
-* Persona Example:
 
+  Persona Example:
 * Name: Ravi
 * City: Hyderabad
 * Weekly Income: ₹7000–₹9000
 * Work Type: Outdoor delivery
 
 Pain Points:
-
 * Income drops during heavy rain / extreme heat
 * Cannot work during curfews or floods
 * No financial safety net
@@ -178,12 +177,6 @@ A **web-based platform** is chosen for Phase 1 to enable rapid development, ease
 ## 🔗 Repository
 
 https://github.com/IragalaSaiNavya/ai-insurance-platform.git
-
----
-
-## 🎥 Demo Video
-
-(To be updated with public video link)
 
 ---
 
