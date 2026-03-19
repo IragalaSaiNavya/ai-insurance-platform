@@ -37,15 +37,17 @@ This approach ensures **low operational overhead, faster settlements, and enhanc
 * Delivery Partner (e.g., Swiggy, Zomato, Amazon)
 * Persona Example:
 
-Name: Ravi
-City: Hyderabad
-Weekly Income: ₹7000–₹9000
-Work Type: Outdoor delivery
+* Name: Ravi
+* City: Hyderabad
+* Weekly Income: ₹7000–₹9000
+* Work Type: Outdoor delivery
+
 Pain Points:
 
-Income drops during heavy rain / extreme heat
-Cannot work during curfews or floods
-No financial safety net
+* Income drops during heavy rain / extreme heat
+* Cannot work during curfews or floods
+* No financial safety net
+
 
 ### Workflow:
 
