@@ -133,12 +133,6 @@ Premium = 1% of Weekly Income
 
 ---
 
-## 📱 Platform Strategy
-
-A **web-based platform** is chosen for Phase 1 to enable rapid development, ease of deployment, and cross-device accessibility. Mobile application support is planned for future iterations.
-
----
-
 ## 📊 Core Features
 
 * Seamless user onboarding
