@@ -1,5 +1,3 @@
-# ai-insurance-platform
-
 # 🚀 AI-Powered Parametric Insurance Platform for Gig Economy Workers
 
 ## 📌 Executive Summary
